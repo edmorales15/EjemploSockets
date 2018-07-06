@@ -29,6 +29,7 @@ public class Client extends JFrame
    public Client( String host )
    {
       super( "Client" );
+      //Ejemplo de modificacion
 
       chatServer = host; // set server to which this client connects
 
